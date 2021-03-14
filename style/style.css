@@ -1,0 +1,12 @@
+div p {
+background-color: #e23434;
+margin-left: 50px;
+}
+
+.row{background-color: aqua;
+padding-top: 50px;
+border-color: brown;}
+
+.about-me{text-align: center;
+font-size: large;
+}
